@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7AF12E01-EEFF-44C3-8644-3B4B7E9713C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Gidrogasitel.My.MyApplication</StartupObject>
+    <RootNamespace>Gidrogasitel</RootNamespace>
+    <AssemblyName>Gidrogasitel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gidrogasitel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gidrogasitel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseApparats.Designer.vb">
+      <DependentUpon>aseApparats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseApparats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseApparatsType.Designer.vb">
+      <DependentUpon>aseApparatsType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseApparatsType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseApparatTypeSelect.Designer.vb">
+      <DependentUpon>aseApparatTypeSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseApparatTypeSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseAppointmentSelect.Designer.vb">
+      <DependentUpon>aseAppointmentSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseAppointmentSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseBD.Designer.vb">
+      <DependentUpon>aseBD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseBD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseCalendar.Designer.vb">
+      <DependentUpon>aseCalendar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseCalendar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseFiltr.Designer.vb">
+      <DependentUpon>aseFiltr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseFiltr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseGasitel.Designer.vb">
+      <DependentUpon>aseGasitel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseGasitel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseGasitelNum.Designer.vb">
+      <DependentUpon>aseGasitelNum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseGasitelNum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseGasitelSelect.Designer.vb">
+      <DependentUpon>aseGasitelSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseGasitelSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspAngle.Designer.vb">
+      <DependentUpon>aseIspAngle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspAngle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspEnd.Designer.vb">
+      <DependentUpon>aseIspEnd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspEnd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspMain.Designer.vb">
+      <DependentUpon>aseIspMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspPodgotovka.Designer.vb">
+      <DependentUpon>aseIspPodgotovka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspPodgotovka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspPodtvProkacki.Designer.vb">
+      <DependentUpon>aseIspPodtvProkacki.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspPodtvProkacki.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspProkachka.Designer.vb">
+      <DependentUpon>aseIspProkachka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspProkachka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspSetAmpl.Designer.vb">
+      <DependentUpon>aseIspSetAmpl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspSetAmpl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseObrabotka.Designer.vb">
+      <DependentUpon>aseObrabotka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseObrabotka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOperatorSelect.Designer.vb">
+      <DependentUpon>aseOperatorSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOperatorSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOptimA.Designer.vb">
+      <DependentUpon>aseOptimA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOptimA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOptimB.Designer.vb">
+      <DependentUpon>aseOptimB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOptimB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOptimE.Designer.vb">
+      <DependentUpon>aseOptimE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOptimE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOptimG.Designer.vb">
+      <DependentUpon>aseOptimG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOptimG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOptimS.Designer.vb">
+      <DependentUpon>aseOptimS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOptimS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asePreparation.Designer.vb">
+      <DependentUpon>asePreparation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="asePreparation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseProverka.Designer.vb">
+      <DependentUpon>aseProverka.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseProverka.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseRemontSelect.Designer.vb">
+      <DependentUpon>aseRemontSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseRemontSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseReport.Designer.vb">
+      <DependentUpon>aseReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clAnaliseFile.vb" />
+    <Compile Include="clComPort.vb" />
+    <Compile Include="clLcardGidro.vb" />
+    <Compile Include="cllLog.vb" />
+    <Compile Include="clLoger.vb" />
+    <Compile Include="clMeasuring.vb" />
+    <Compile Include="clOpros.vb" />
+    <Compile Include="clRWini.vb" />
+    <Compile Include="clSMSD42.vb" />
+    <Compile Include="clStend.vb" />
+    <Compile Include="clVrashenie.vb" />
+    <Compile Include="aseRemont.Designer.vb">
+      <DependentUpon>aseRemont.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseRemont.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseAppointment.Designer.vb">
+      <DependentUpon>aseAppointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOperatorChange.Designer.vb">
+      <DependentUpon>aseOperatorChange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOperatorChange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseOperators.Designer.vb">
+      <DependentUpon>aseOperators.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseOperators.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aseIspNew.Designer.vb">
+      <DependentUpon>aseIspNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aseIspNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStendOption.Designer.vb">
+      <DependentUpon>frmStendOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStendOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTenzo.Designer.vb">
+      <DependentUpon>frmTenzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTenzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMotor.Designer.vb">
+      <DependentUpon>frmMotor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMotor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAmpl.Designer.vb">
+      <DependentUpon>frmAmpl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAmpl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAngle.Designer.vb">
+      <DependentUpon>frmAngle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAngle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTg.Designer.vb">
+      <DependentUpon>frmTg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTs.Designer.vb">
+      <DependentUpon>frmTs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatchiki.Designer.vb">
+      <DependentUpon>frmDatchiki.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatchiki.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKeypad.Designer.vb">
+      <DependentUpon>frmKeypad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKeypad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNumpade.Designer.vb">
+      <DependentUpon>frmNumpade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNumpade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetAngle.Designer.vb">
+      <DependentUpon>frmSetAngle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetAngle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetAmpl.Designer.vb">
+      <DependentUpon>frmSetAmpl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetAmpl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetV.Designer.vb">
+      <DependentUpon>frmSetV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual.Designer.vb">
+      <DependentUpon>frmManual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuOption.Designer.vb">
+      <DependentUpon>frmMenuOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.vb">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmApparats.Designer.vb">
+      <DependentUpon>frmApparats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmApparats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAppointment.designer.vb">
+      <DependentUpon>frmAppointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployee.designer.vb">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGDB.Designer.vb">
+      <DependentUpon>frmGDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGIspitaniaData.Designer.vb">
+      <DependentUpon>frmGIspitaniaData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGIspitaniaData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGMain.Designer.vb">
+      <DependentUpon>frmGMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.vb">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRemont.designer.vb">
+      <DependentUpon>frmRemont.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRemont.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GidrogasitelDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GidrogasitelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GidrogasitelDataSet.vb">
+      <DependentUpon>GidrogasitelDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseApparats.resx">
+      <DependentUpon>aseApparats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseApparatsType.resx">
+      <DependentUpon>aseApparatsType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseApparatTypeSelect.resx">
+      <DependentUpon>aseApparatTypeSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseAppointment.resx">
+      <DependentUpon>aseAppointment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseAppointmentSelect.resx">
+      <DependentUpon>aseAppointmentSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseBD.resx">
+      <DependentUpon>aseBD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseCalendar.resx">
+      <DependentUpon>aseCalendar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseFiltr.resx">
+      <DependentUpon>aseFiltr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseGasitel.resx">
+      <DependentUpon>aseGasitel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseGasitelNum.resx">
+      <DependentUpon>aseGasitelNum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseGasitelSelect.resx">
+      <DependentUpon>aseGasitelSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspAngle.resx">
+      <DependentUpon>aseIspAngle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspEnd.resx">
+      <DependentUpon>aseIspEnd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspMain.resx">
+      <DependentUpon>aseIspMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspPodgotovka.resx">
+      <DependentUpon>aseIspPodgotovka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspPodtvProkacki.resx">
+      <DependentUpon>aseIspPodtvProkacki.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspProkachka.resx">
+      <DependentUpon>aseIspProkachka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspSetAmpl.resx">
+      <DependentUpon>aseIspSetAmpl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseObrabotka.resx">
+      <DependentUpon>aseObrabotka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOperatorChange.resx">
+      <DependentUpon>aseOperatorChange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOperators.resx">
+      <DependentUpon>aseOperators.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOperatorSelect.resx">
+      <DependentUpon>aseOperatorSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOptimA.resx">
+      <DependentUpon>aseOptimA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOptimB.resx">
+      <DependentUpon>aseOptimB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOptimE.resx">
+      <DependentUpon>aseOptimE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOptimG.resx">
+      <DependentUpon>aseOptimG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseOptimS.resx">
+      <DependentUpon>aseOptimS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asePreparation.resx">
+      <DependentUpon>asePreparation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseProverka.resx">
+      <DependentUpon>aseProverka.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseRemont.resx">
+      <DependentUpon>aseRemont.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseIspNew.resx">
+      <DependentUpon>aseIspNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseRemontSelect.resx">
+      <DependentUpon>aseRemontSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aseReport.resx">
+      <DependentUpon>aseReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStendOption.resx">
+      <DependentUpon>frmStendOption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTenzo.resx">
+      <DependentUpon>frmTenzo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMotor.resx">
+      <DependentUpon>frmMotor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAmpl.resx">
+      <DependentUpon>frmAmpl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAngle.resx">
+      <DependentUpon>frmAngle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTg.resx">
+      <DependentUpon>frmTg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTs.resx">
+      <DependentUpon>frmTs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatchiki.resx">
+      <DependentUpon>frmDatchiki.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKeypad.resx">
+      <DependentUpon>frmKeypad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNumpade.resx">
+      <DependentUpon>frmNumpade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetAngle.resx">
+      <DependentUpon>frmSetAngle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetAmpl.resx">
+      <DependentUpon>frmSetAmpl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetV.resx">
+      <DependentUpon>frmSetV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual.resx">
+      <DependentUpon>frmManual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuOption.resx">
+      <DependentUpon>frmMenuOption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmApparats.resx">
+      <DependentUpon>frmApparats.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAppointment.resx">
+      <DependentUpon>frmAppointment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployee.resx">
+      <DependentUpon>frmEmployee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGDB.resx">
+      <DependentUpon>frmGDB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGIspitaniaData.resx">
+      <DependentUpon>frmGIspitaniaData.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGMain.resx">
+      <DependentUpon>frmGMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRemont.resx">
+      <DependentUpon>frmRemont.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="GidrogasitelDataSet.xsc">
+      <DependentUpon>GidrogasitelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GidrogasitelDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>GidrogasitelDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="GidrogasitelDataSet.xss">
+      <DependentUpon>GidrogasitelDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Gidrogasitel.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\my-reports.png" />
+    <None Include="Resources\zoom2.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\print-2-64.png" />
+    <None Include="Resources\Less-32.png" />
+    <None Include="Resources\More-32.png" />
+    <None Include="Resources\Ok.png" />
+    <None Include="Resources\move-up-24.png" />
+    <None Include="Resources\move-down-24.png" />
+    <None Include="Resources\move-up-down-24.png" />
+    <None Include="Resources\on.png" />
+    <None Include="Resources\Pressure_Reading-24.png" />
+    <None Include="Resources\quit.png" />
+    <None Include="Resources\circle_back_arrow-48.png" />
+    <None Include="Resources\circle_back_arrow-64.png" />
+    <None Include="Resources\circle_back_arrow-32.png" />
+    <None Include="Resources\internt_web_technology-12-24.png" />
+    <None Include="Resources\icon_3_high_five-24.png" />
+    <None Include="Resources\1428580529_Copy.png" />
+    <None Include="Resources\copy-24.png" />
+    <None Include="Resources\angle-24.png" />
+    <None Include="Resources\button_rotate-24.png" />
+    <None Include="Resources\button_cancel.png" />
+    <None Include="Resources\collapse2-32.png" />
+    <None Include="Resources\double-arrow-up-32.png" />
+    <None Include="Resources\expand2-32.png" />
+    <None Include="Resources\double-arrow-down-32.png" />
+    <None Include="Resources\circle_edit_pen_pencil-32.png" />
+    <None Include="Resources\document-print-preview-64.png" />
+    <None Include="Resources\filter.png" />
+    <None Include="Resources\filter-32.png" />
+    <None Include="Resources\document_delete.png" />
+    <None Include="Resources\document_search.png" />
+    <Content Include="Resources\left.bmp" />
+    <None Include="Resources\down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\clTreeView\clTreeView.vbproj">
+      <Project>{1A48C374-06D6-404A-99A0-39E5C5C7A5B3}</Project>
+      <Name>clTreeView</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\pOscill\pOscill.vbproj">
+      <Project>{B4838DA7-DE84-4D4B-B8A3-5BF1B3CA007E}</Project>
+      <Name>pOscill</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>Экспресс-выпуск SQL Server 2005, пакет обновления 2 %28SP2%29 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

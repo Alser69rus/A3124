@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VIP5600">
+</Property><Property Name="Файл решения" Value="f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600.sln">
+</Property><Property Name="Date" Value="6 ноября 2014 г.">
+</Property><Property Name="Time" Value="12:36">
+</Property></Properties><Event ErrorLevel="0" Project="Gidrogasitel" Source="VIP5600\Gidrogasitel.vbproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Gidrogasitel" Source="VIP5600\Gidrogasitel.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pOscill" Source="..\pOscill\pOscill.vbproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="pOscill" Source="..\pOscill\pOscill.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="clTreeView" Source="..\clTreeView\clTreeView.vbproj" Description="Ваш проект указывает на .NET Framework версии 2.0 или 3.0. Если проект использует сборки, требующие более новой версии .NET Framework, его построение завершится сбоем. Для изменения целевой версии .NET Framework выберите пункт &quot;Свойства&quot; в меню &quot;Проект&quot;, а затем выберите целевую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой нажатием кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="clTreeView" Source="..\clTreeView\clTreeView.vbproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="clTreeView" Source="..\clTreeView\clTreeView.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VIP5600.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="VIP5600.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Gidrogasitel" Source="VIP5600\Gidrogasitel.vbproj" Description="Сканирование завершено: обновление файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="pOscill" Source="..\pOscill\pOscill.vbproj" Description="Сканирование завершено: обновление файлов проекта не требуется.">
+</Event><Event ErrorLevel="0" Project="clTreeView" Source="..\clTreeView\clTreeView.vbproj" Description="Сканирование завершено: обновление файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,395 @@
+﻿Imports System.Runtime.InteropServices
+Imports System.Threading
+Imports System.Globalization
+Imports System.IO
+Imports System.Windows.Forms
+
+'<CLSCompliant(True)> _
+Public Class clStend
+
+    Implements IDisposable
+
+
+    Public Event Err(ByVal code As Integer)
+
+    Public WithEvents serial As System.IO.Ports.SerialPort
+    Public WithEvents comport As clComPort
+
+
+
+    Public rw As clRWini
+
+
+    'Public Rotation As CRotationEx
+
+    Public parent As System.Windows.Forms.Form
+
+    Public WithEvents opros As clOpros
+
+
+
+    Public smds As clSMSD42
+
+
+
+    Public Sub New(ByVal _parent As Windows.Forms.Form, ByVal _lcard As clLcardGidro)
+
+        MyBase.New()
+
+
+
+        parent = _parent
+
+        rw = New clRWini
+        serial = New System.IO.Ports.SerialPort("COM" & rw.PORT)
+
+        Try
+
+            With serial
+                .BaudRate = CInt(rw.BAUDRATE)
+                .DataBits = CInt(rw.DATABITS)
+                .Parity = [Enum].Parse(GetType(System.IO.Ports.Parity), rw.PARITY, True)
+                .StopBits = [Enum].Parse(GetType(System.IO.Ports.StopBits), rw.STOPBITS, True)
+                .Handshake = [Enum].Parse(GetType(System.IO.Ports.Handshake), rw.HANDSHAKE, True)
+            End With
+
+            serial.ReadBufferSize = 1000
+            serial.ReceivedBytesThreshold = 1
+            comport = New clComPort(serial, CBool(rw.ENABLE_LOG))
+            comport.Protokol = clComPort.eProtokol.ASCII
+            comport.EnableEventReceived = True
+
+            serial.Open()
+
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        End Try
+
+        'Rotation = New CRotationEx(Me)
+
+        opros = New clOpros(Me, rw, _lcard)
+
+        smds = New clSMSD42("COM" & rw.PORT2)
+
+    End Sub
+
+    Public Sub Dispose() Implements System.IDisposable.Dispose
+        
+        opros.Ended()
+        While opros.IsExit = False
+            Threading.Thread.Sleep(500)
+            'mSleep(500)
+        End While
+
+        smds.Ended()
+
+        comport.Dispose()
+
+        'Rotation.Dispose()
+
+    End Sub
+
+   
+    ''' <summary>
+    ''' формирует строку для установки-сброса одного бита модуля цифрового выхода
+    ''' </summary>
+    ''' <param name="adress">адрес</param>
+    ''' <param name="OutNum">номер выхода</param>
+    ''' <param name="value">установка-1,сброс-0</param>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
+    Public Function DIO_OneOut_Cmd(ByVal adress As Byte, ByVal OutNum As Byte, ByVal value As Byte) As String
+        Return "#" & adress.ToString("X2") & "1" & OutNum.ToString & "0" & value.ToString
+    End Function
+    ''' <summary>
+    ''' формирует строку для установки-сброса всех битов модуля цифрового выхода
+    ''' </summary>
+    ''' <param name="adress">адрес</param>
+    ''' <param name="value"></param>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
+    Public Function DIO_AllOut_Cmd(ByVal adress As Byte, ByVal value As Int16) As String
+        Return "@" & adress.ToString("X2") & value.ToString("X4")
+    End Function
+
+
+    ''' <summary>
+    ''' команда разбора схемы
+    ''' </summary>
+    ''' <remarks></remarks>
+    Public Sub SetRazbor()
+
+        AmplitudeExcecute(eAction.Stop)
+
+        opros.reg_Fzp.Reset()
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_AllOut_Cmd(rw.ADRESS(0), 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 10, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 1, 1), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 100, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 1, 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 1000, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+
+
+    End Sub
+
+
+
+    ''' <summary>
+    ''' </summary>      
+    ''' 
+    ''' <returns> 0 - все контакторы отключены , 
+    ''' 1 - собран режим</returns>
+    ''' <remarks></remarks>
+    Public Function GetRegim() As Integer
+        Dim val As UInt16 = opros.DigIN2.mValue.Value
+
+
+        'val = val And &H1F7
+
+        If (val And 16) = 0 Then
+            Return 1
+        End If
+        Return 0
+
+        
+    End Function
+
+    Public Enum eAction
+        Up = 1
+        Down = 2
+        [Stop] = 0
+        FindZero = 3
+    End Enum
+
+
+    Public Sub SetSbor(Optional ByVal fmax As Integer = 50)
+        AmplitudeExcecute(eAction.Stop)
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_AllOut_Cmd(rw.ADRESS(0), 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 10, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 0, 1), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 100, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+
+        opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 0, 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 1000, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                 .protokol_type = eProtokolType.DCON})
+
+        opros.reg_Fzp.Reset()
+        opros.reg_Fzp.Start(2000, fmax)
+
+    End Sub
+
+    Public Sub AmplitudeExcecute(ByVal action As eAction)
+
+        Select Case action
+            Case eAction.Stop
+                Debug.Print("amplitude stop")
+                smds.SendComand(New String() {"MV1*"})
+
+            Case eAction.Up
+                Debug.Print("amplitude up")
+                smds.SendComand(New String() {"DL*", "SD500*", "EN*", "MV*"})
+
+            Case eAction.Down
+                Debug.Print("amplitude down")
+                smds.SendComand(New String() {"DR*", "SD500*", "EN*", "MV*"})
+            Case eAction.FindZero
+                Debug.Print("amplitude findzero")
+                smds.SendComand(New String() {"DR*", "EN*", "HM*"})
+        End Select
+
+    End Sub
+
+    Public Sub AngleExcecute(ByVal action As eAction)
+        Select Case action
+            Case eAction.Stop
+                Debug.Print("angle stop")
+                opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 2, 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 10, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+                opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 3, 0), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 10, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+            Case eAction.Up, eAction.FindZero
+                Debug.Print("angle up")
+                opros.SendComand(New s_command With {.rec = "", _
+                                                 .send = DIO_OneOut_Cmd(rw.ADRESS(0), 3, 0), _
+                                                 .removeCS = True, _
+                                                 .timeout = 300, _
+                                                 .checksum = True, _
+                                                 .count = 3, _
+                                                 .PreviousDelay = 10, _
+                                                 .SendVbCr = True, _
+                                                 .ParamArray = New String() {">"}, _
+                                                 .BaudRate = 9600, _
+                                                 .StopBits = IO.Ports.StopBits.One, _
+                                                 .Parity = IO.Ports.Parity.None, _
+                                                 .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+                opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 2, 1), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 1, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+
+
+            Case eAction.Down
+                Debug.Print("angle down")
+                opros.SendComand(New s_command With {.rec = "", _
+                                                 .send = DIO_OneOut_Cmd(rw.ADRESS(0), 2, 0), _
+                                                 .removeCS = True, _
+                                                 .timeout = 300, _
+                                                 .checksum = True, _
+                                                 .count = 3, _
+                                                 .PreviousDelay = 10, _
+                                                 .SendVbCr = True, _
+                                                 .ParamArray = New String() {">"}, _
+                                                 .BaudRate = 9600, _
+                                                 .StopBits = IO.Ports.StopBits.One, _
+                                                 .Parity = IO.Ports.Parity.None, _
+                                                 .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+
+                opros.SendComand(New s_command With {.rec = "", _
+                                                  .send = DIO_OneOut_Cmd(rw.ADRESS(0), 3, 1), _
+                                                  .removeCS = True, _
+                                                  .timeout = 300, _
+                                                  .checksum = True, _
+                                                  .count = 3, _
+                                                  .PreviousDelay = 1, _
+                                                  .SendVbCr = True, _
+                                                  .ParamArray = New String() {">"}, _
+                                                  .BaudRate = 9600, _
+                                                  .StopBits = IO.Ports.StopBits.One, _
+                                                  .Parity = IO.Ports.Parity.None, _
+                                                  .DataLen = 8, _
+                                                  .protokol_type = eProtokolType.DCON})
+        End Select
+
+    End Sub
+
+
+    
+
+End Class
+
+
+
+
+
+

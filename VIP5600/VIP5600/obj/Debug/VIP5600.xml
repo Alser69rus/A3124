@@ -1,0 +1,293 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VIP5600
+</name>
+</assembly>
+<members>
+<member name="T:VIP5600.DataSet1.BPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ImpulsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.IvsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.mainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.OtseckaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.UvsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.VSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.VTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.АппаратыDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ВыпрямительDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ДолжностиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ИнверторDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ОператорыDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.РемонтыDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.BPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ImpulsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.IvsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.mainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.OtseckaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.UvsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.VSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.VTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.АппаратыRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ВыпрямительRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ДолжностиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ИнверторRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.ОператорыRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.РемонтыRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:VIP5600.DataSet1.BPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.ImpulsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.IvsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.mainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.OtseckaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.UvsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.VSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.VTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.АппаратыRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.ВыпрямительRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.ДолжностиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.ИнверторRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.ОператорыRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1.РемонтыRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:VIP5600.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.BPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.ImpulsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.IvsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.mainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.OtseckaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.UvsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.VSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.VTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.АппаратыTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.ВыпрямительTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.ДолжностиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.ИнверторTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.ОператорыTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.РемонтыTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:VIP5600.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(VIP5600.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:VIP5600.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(VIP5600.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:VIP5600.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(VIP5600.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:VIP5600.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:VIP5600.DataSet1TableAdapters.TableAdapterManager.UpdateAll(VIP5600.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:VIP5600.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:VIP5600.frmIraspr.check_value(System.String)">
+	<summary>
+ 0 - в норме
+ 1 - не в норме
+ 2 - не число
+ 3 - пустое поле
+ </summary>
+	<param name="text"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VIP5600.clAnaliseFile.Tendention(System.Int32,System.Int32)">
+	<summary>
+ определяем тенденцию развития сигнала в заданной точке
+ </summary>
+	<returns> если больше 0 то идет увеличение сигнала если меньше 0 то уменьшение, около 0 гдето рядом экстремум</returns>
+	<remarks></remarks>
+</member><member name="M:VIP5600.clAnaliseFile.TendentionSimetrichno(System.Int32,System.Int32)">
+	<summary>
+ определяем тенденцию развития сигнала в заданной точке
+ </summary>
+	<returns> если больше 0 то идет увеличение сигнала если меньше 0 то уменьшение, около 0 гдето рядом экстремум</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

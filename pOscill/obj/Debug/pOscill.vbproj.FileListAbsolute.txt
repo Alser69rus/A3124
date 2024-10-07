@@ -1,0 +1,180 @@
+C:\WORK\progi\vb net\Stends\VIP\pOscill\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\VIP\pOscill\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\VIP\pOscill\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.Resources.resources
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\VIP\pOscill\obj\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.Resources.resources
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\VIP_v3\pOscill\obj\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.Resources.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\pOscill\obj\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+f:\2014_10_13\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+f:\2014_10_13\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+f:\2014_10_13\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+f:\2014_10_13\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+F:\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+F:\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+F:\2014_11_03\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+F:\2014_11_03\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\ResolveAssemblyReference.cache
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\GenerateResource-ResGen.write.1.tlog
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+f:\2016_07_26\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+f:\2016_07_26\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+f:\2016_07_26\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+f:\2016_07_26\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+f:\2017_12_19\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+f:\2017_12_19\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+f:\2017_12_19\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+f:\2017_12_19\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+C:\Программы\2018_03_16\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+d:\А3124\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.dll
+d:\А3124\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.pdb
+d:\А3124\GidrogasitelTorjok\pOscill\bin\Debug\pOscill.xml
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.cOscill.resources
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.Resources.resources
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.Cache
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
+d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb

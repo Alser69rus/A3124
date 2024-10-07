@@ -1,0 +1,1038 @@
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\apparat.mdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.E154_test.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAnaliseDataGidrogasitel.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+C:\WORK\progi\vb net\Stends\Gidrogasitel\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\WORK\progi\vb net\Stends\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+f:\2014_10_13\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\gidro\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\А3124 ПО\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+F:\А3124 ПО\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+F:\А3124 ПО\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+F:\А3124 ПО\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+f:\2014_11_03\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Проекты\А3124 Качалка\2015_02_04\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ZedGraph.xml
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\de\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\es\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\fr\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\hu\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\it\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ja\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pt\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\ru\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sk\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\sv\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\tr\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+D:\Проекты\А3124 Качалка\2015_03_30\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+D:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+d:\Проекты\А3124 Качалка\2015_04_09\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+d:\gidro\2015_07_20\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+d:\gidro\2015_07_21\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\ResolveAssemblyReference.cache
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\gidro\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\GenerateResource-ResGen.write.1.tlog
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+f:\2016_07_26\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+f:\2017_12_19\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+d:\Программы\А3124 Качалка\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+C:\Программы\2018_03_16\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+C:\Программы\2018_10_23 Лиски\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe.config
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.exe
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.xml
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.pdb
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.sdf
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.exe
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.pdb
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\Gidrogasitel.xml
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.dll
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.dll
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.pdb
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\clTreeView.xml
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.pdb
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\bin\Debug\pOscill.xml
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbprojResolveAssemblyReference.cache
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.AboutBox1.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparats.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatsType.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseApparatTypeSelect.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointment.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseAppointmentSelect.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseBD.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseCalendar.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseFiltr.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitel.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelNum.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseGasitelSelect.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspAngle.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspEnd.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspMain.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodgotovka.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspPodtvProkacki.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspProkachka.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspSetAmpl.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseObrabotka.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorChange.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperators.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOperatorSelect.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimA.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimB.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimE.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimG.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseOptimS.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.asePreparation.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseProverka.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemont.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseIspNew.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseRemontSelect.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.aseReport.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmStendOption.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTenzo.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMotor.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAmpl.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAngle.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTg.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmTs.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmDatchiki.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmKeypad.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmNumpad.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAngle.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetAmpl.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmSetV.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmManual.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMenuOption.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmMainMenu.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmApparats.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmAppointment.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmEmployee.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGDB.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGIspitaniaData.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmGMain.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmOptions.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.frmRemont.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.Resources.resources
+d:\А3124\GidrogasitelTorjok\VIP5600\VIP5600\obj\Debug\Gidrogasitel.vbproj.GenerateResource.Cache

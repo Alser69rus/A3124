@@ -1,0 +1,496 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gidrogasitel
+</name>
+</assembly>
+<members>
+<member name="E:Gidrogasitel.clDevice.ValueChange">
+	<summary>
+ Происходит после изменения значения в устройстве
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clSMSD42.SendRec(System.String@,System.String,System.Int32@,System.Int32,System.Char,System.String[])">
+	<summary>
+ процедура чтения записи по последовательному порту
+ Rec - принятая строка
+ Send - отправляемая строка
+ TimeOut - тайм аут на прием
+ CheckSum - контрольная сумма
+ Count - количество попыток посылок
+ SendVBCr - отправлять ли VbCr
+ Contain - список допустимых ответов на запрос
+ </summary>
+	<param name="Rec"></param>
+	<param name="Send"></param>
+	<param name="TimeOut"></param>
+	<param name="Contain"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clLog.Open(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="filename"> имя файла без расширения</param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clLcardGidro.ReInit(System.Double)">
+	<summary>
+ перезапуск Лкар с новыми праметрами частоты дискретизации в кГц
+ </summary>
+	<param name="Rate">частотс дискретизации в кГц</param>
+	<remarks></remarks>
+</member><member name="P:Gidrogasitel.clLcardGidro.GetCurrentRate">
+	<summary>
+ возвращает текущую рабочую частоту дискретизации
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.mainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.AppointmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.OperatorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RemontDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RezultDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.mainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.AppointmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.OperatorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RemontRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RezultRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.mainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.AppointmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.OperatorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RemontRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.RezultRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet.ApparatsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.mainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.AppointmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.OperatorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.RemontTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.ApparatTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.RezultTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.ApparatsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gidrogasitel.GidrogasitelDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gidrogasitel.GidrogasitelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gidrogasitel.GidrogasitelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.UpdateAll(Gidrogasitel.GidrogasitelDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gidrogasitel.GidrogasitelDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Gidrogasitel.clComPort.Protokol">
+	<summary>
+ выбор режима работы ASCII или BIN
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:Gidrogasitel.clComPort.EnableEventReceived">
+	<summary>
+ разрешает запрещает обработку события на прием данных с СОМ порта
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Gidrogasitel.clComPort.ErrorAnswers">
+	<summary>
+ ответы устройств которые понимаются как ошибочные
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.CheckCRC(System.String@,System.Boolean)">
+	<summary>
+ проверка контрольной суммы строки
+ </summary>
+	<param name="val"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.AddCRC(System.String)">
+	<summary>
+ добовляет контрольную сумму к строке
+ </summary>
+	<param name="val"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.dtohc(System.Int32)">
+	<summary>
+ преобразует в HEX формат с одним лидирующим нулем
+  val - не более 255
+ </summary>
+	<param name="val"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.Write(System.String,System.Boolean,System.Boolean)">
+	<summary>
+ отправка строки в СОМ порт
+ </summary>
+	<param name="send"></param>
+	<param name="CheckSum"></param>
+	<param name="SendVbCR"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.ReadLine(System.String@,System.Int32@,System.Boolean,System.Boolean)">
+	<summary>
+ чтение строки символов из ком порта
+ возвращает true - строка принята
+ false - строка не принята
+ </summary>
+	<param name="Rec"></param>
+	<param name="TimeOut"></param>
+	<param name="CheckSum"></param>
+	<param name="RemoveCS"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clComPort.SendRec(System.String@,System.String,System.Int32@,System.Boolean,System.Int32,System.Boolean,System.Boolean,System.Int32,System.String[])">
+	<summary>
+ процедура чтения записи по последовательному порту
+ Rec - принятая строка
+ Send - отправляемая строка
+ TimeOut - тайм аут на прием
+ CheckSum - контрольная сумма
+ Count - количество попыток посылок
+ SendVBCr - отправлять ли VbCr
+ Contain - список допустимых ответов на запрос
+ </summary>
+	<param name="Rec"></param>
+	<param name="Send"></param>
+	<param name="TimeOut"></param>
+	<param name="CheckSum"></param>
+	<param name="Count"></param>
+	<param name="SendVbCR"></param>
+	<param name="Contain"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:Gidrogasitel.clDrawingProtokol.cLenGraph">
+	<summary>
+ длина оси Х в мм
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Gidrogasitel.clDrawingProtokol.cPowerGraph">
+	<summary>
+ сила по оси у в кН
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Gidrogasitel.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Gidrogasitel.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="T:Gidrogasitel.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member><member name="F:Gidrogasitel.CRotationEx.DataRefreshEvents">
+	<summary>
+ Останавливает поток управления вращением после обработки
+ обновленных данных (Ud,Id,Nd,Ilp,Uvdp,Состояние контакторов) до их следующего
+ обновления
+ </summary>
+	<remarks>Данные обновляются в классе CStend в процедуре RefreshSostoyanieEX</remarks>
+</member><member name="T:Gidrogasitel.CRotationEx.eStatusRotation">
+	<summary>
+ Описывает состояние двигателей
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Gidrogasitel.CRotationEx.WatchDogTimer">
+	<summary>
+ Таймер контролирующий неуправляемое вращение когда он достигнет величины 30000 (30 секунд)
+ произойдет автоматическая остановка двигателя
+ чтобы этого не произошло управляющий поток должен скидывать этот таймер в 0
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationUmvz(System.Single)">
+	<summary>
+предел темпа набора Uмвз генератора A/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempUmvz(System.Single)">
+	<summary>
+ постоянная времени набора напряжения мвз- в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationItg(System.Single)">
+	<summary>
+предел темпа набора тока тягового генератора A/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempItg(System.Single)">
+	<summary>
+ постоянная времени набора ока тягового генератоhа - в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationIvg(System.Single)">
+	<summary>
+предел темпа набора тока вспомогательного генератора A/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempIvg(System.Single)">
+	<summary>
+ постоянная времени набора ока вспомогательного генератоhа - в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationIovd(System.Single)">
+	<summary>
+предел темпа набора тока двигателя A/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempIovd(System.Single)">
+	<summary>
+ постоянная времени набора тока двигателя - в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationUd(System.Single)">
+	<summary>
+предел темпа набора напряжения двигателя В/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempUd(System.Single)">
+	<summary>
+ постоянная времени набора напряжения двигателя - в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetAcselerationNd(System.Single)">
+	<summary>
+предел темпа набора напряжения двигателя В/c
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.SetTempNd(System.Single)">
+	<summary>
+ постоянная времени набора напряжения двигателя - в секундах (дискреты фазарегулятора в секунду)
+ </summary>
+	<param name="Value"></param>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.РегуляторIovd">
+	<summary>
+ Возвращает приращение для фазарегулятора ОВД
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.РегуляторUd">
+	<summary>
+ Возвращает приращение для фазарегулятора Ud в зависимости от оборотов двигателя
+ с ограничением по току двигатея и напряжению двигателя
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.РегуляторОВ_If(Gidrogasitel.clSimplePribor,System.Single,System.Single,System.Single,System.Int32,System.TimeSpan@)">
+	<summary>
+ Возвращает приращение для фазарегулятора ОВ вспомогательного генератора
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.CRotationEx.РегуляторОВВГ_Simple">
+	<summary>
+ Возвращает приращение для фазарегулятора ОВ вспомогательного генератора
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Gidrogasitel.CRotationEx">
+	<summary>
+ Управляет состоянием двигателей создается при запуске программы 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.Module1.CheckLim(System.Single,System.Single,System.Single)">
+	<summary>
+ показывает попало или нет значение в заданный предел с допустимым отклонением
+ </summary>
+	<param name="value">заданное значение</param>
+	<param name="lim">заданный предел</param>
+	<param name="delta">возможное отклонение от предела в процентах</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Gidrogasitel.Module1.bpf">
+	<summary>
+ дискретное быстрое преобразование фурье - прямое и обратное
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.Module1.CalculateFdiscrLcard(System.Int32,System.Single,System.Single,System.Int32)">
+	<summary>
+ вычисляет частоту диcкретизации Лкард в зависимости от величины оборотов приводного вала
+ </summary>
+	<param name="N_nom">номинальные обороты приводного двигателя</param>
+	<param name="percent">фактический процент от номинальных оборотов - число от 0 до 1</param>
+	<param name="pered_red">передаточное число редуктора от двигателя к главному валу привода штока</param>
+	<param name="CountPeriods">число периодов сигнала в выборке</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.Module1.CalculateFprivod(System.Int32,System.Single,System.Int32,System.Single)">
+	<summary>
+ вычисление требуемой частоты привода в зависимости от амлитуды и скорости
+ </summary>
+	<param name="N_nom">номинальная скорость двигателя</param>
+	<param name="pered_red">передаточное число редуктора от двигателя к главному валу привода штока</param>
+	<param name="ampl">амплитуда хода поршня в мм</param>
+	<param name="speed">скорость перемещения поршня в м/c</param>
+	<returns>частота в Гц</returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clStend.DIO_OneOut_Cmd(System.Byte,System.Byte,System.Byte)">
+	<summary>
+ формирует строку для установки-сброса одного бита модуля цифрового выхода
+ </summary>
+	<param name="adress">адрес</param>
+	<param name="OutNum">номер выхода</param>
+	<param name="value">установка-1,сброс-0</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clStend.DIO_AllOut_Cmd(System.Byte,System.Int16)">
+	<summary>
+ формирует строку для установки-сброса всех битов модуля цифрового выхода
+ </summary>
+	<param name="adress">адрес</param>
+	<param name="value"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clStend.SetRazbor">
+	<summary>
+ команда разбора схемы
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clStend.GetRegim">
+	<summary>
+	</summary>
+	<returns> 0 - все контакторы отключены , 
+ 1 - собран режим</returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clAnaliseFile.Tendention(System.Int32,System.Int32)">
+	<summary>
+ определяем тенденцию развития сигнала в заданной точке
+ </summary>
+	<returns> если больше 0 то идет увеличение сигнала если меньше 0 то уменьшение, около 0 гдето рядом экстремум</returns>
+	<remarks></remarks>
+</member><member name="M:Gidrogasitel.clAnaliseFile.TendentionSimetrichno(System.Int32,System.Int32)">
+	<summary>
+ определяем тенденцию развития сигнала в заданной точке
+ </summary>
+	<returns> если больше 0 то идет увеличение сигнала если меньше 0 то уменьшение, около 0 гдето рядом экстремум</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
