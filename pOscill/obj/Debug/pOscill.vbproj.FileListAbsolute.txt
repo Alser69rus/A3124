@@ -178,3 +178,14 @@ d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.C
 d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.dll
 d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.xml
 d:\А3124\GidrogasitelTorjok\pOscill\obj\Debug\pOscill.pdb
+C:\работа\проекты\А3124 Качалка\pOscill\bin\Debug\pOscill.dll
+C:\работа\проекты\А3124 Качалка\pOscill\bin\Debug\pOscill.pdb
+C:\работа\проекты\А3124 Качалка\pOscill\bin\Debug\pOscill.xml
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.vbproj.AssemblyReference.cache
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.cOscill.resources
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.Resources.resources
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.vbproj.GenerateResource.cache
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.vbproj.CoreCompileInputs.cache
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.dll
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.xml
+C:\работа\проекты\А3124 Качалка\pOscill\obj\Debug\pOscill.pdb

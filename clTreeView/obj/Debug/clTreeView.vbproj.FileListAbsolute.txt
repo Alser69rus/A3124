@@ -198,3 +198,14 @@ d:\А3124\GidrogasitelTorjok\clTreeView\obj\Debug\clTreeView.vbproj.GenerateReso
 d:\А3124\GidrogasitelTorjok\clTreeView\obj\Debug\clTreeView.dll
 d:\А3124\GidrogasitelTorjok\clTreeView\obj\Debug\clTreeView.xml
 d:\А3124\GidrogasitelTorjok\clTreeView\obj\Debug\clTreeView.pdb
+C:\работа\проекты\А3124 Качалка\clTreeView\bin\Debug\clTreeView.dll
+C:\работа\проекты\А3124 Качалка\clTreeView\bin\Debug\clTreeView.pdb
+C:\работа\проекты\А3124 Качалка\clTreeView\bin\Debug\clTreeView.xml
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.vbproj.AssemblyReference.cache
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.Resources.resources
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.TreeViewEx.resources
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.vbproj.GenerateResource.cache
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.vbproj.CoreCompileInputs.cache
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.dll
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.xml
+C:\работа\проекты\А3124 Качалка\clTreeView\obj\Debug\clTreeView.pdb

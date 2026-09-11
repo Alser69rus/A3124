@@ -1,0 +1,7 @@
+# Visual Studio / Cursor — locked files here break git add/commit
+.vs/
+*.suo
+*.user
+
+# Build caches (untracked); already tracked bin/obj stay in the repo
+**/obj/**/*.cache
