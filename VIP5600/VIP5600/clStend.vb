@@ -534,7 +534,7 @@ Public Class clStend
                         If v > rw.MAX_AMPL Then
                             StAmpl = eAmpl.Reset
                         ElseIf v > fAmpl Then
-                            smds.SendComand(New String() {"DS*"})
+                            smds.SendComand(New String() {"DS*", "EN*"})
                         End If
 
                     ElseIf delta < 0 Then
@@ -542,7 +542,7 @@ Public Class clStend
                         If v < rw.MIN_AMPL Then
                             StAmpl = eAmpl.Reset
                         ElseIf v < fAmpl Then
-                            smds.SendComand(New String() {"DS*"})
+                            smds.SendComand(New String() {"DS*", "EN*"})
                         End If
                     Else
 
@@ -558,7 +558,7 @@ Public Class clStend
                     If StV = eVelocity.Stop Then
                         SetRazbor()
                     Else
-                        smds.SendComand(New String() {"DS*"})
+                        smds.SendComand(New String() {"DS*", "EN*"})
                     End If
 
         End Select
@@ -852,7 +852,7 @@ Public Class clStend
                                                   .Parity = IO.Ports.Parity.None, _
                                                   .DataLen = 8, _
                                                   .protokol_type = eProtokolType.DCON})
-        smds.SendComand(New String() {"DS*"})
+        smds.SendComand(New String() {"DS*", "EN*"})
 
 
 
@@ -951,7 +951,7 @@ Public Class clStend
         Select Case action
             Case eAction.Stop
                 Debug.Print("amplitude stop")
-                smds.SendComand(New String() {"DS*"})
+                smds.SendComand(New String() {"DS*", "EN*"})
 
             Case eAction.Up
                 Debug.Print("amplitude up")
