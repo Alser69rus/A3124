@@ -5,3 +5,4 @@
 
 # Build caches (untracked); already tracked bin/obj stay in the repo
 **/obj/**/*.cache
+VIP5600/VIP5600/bin/Debug.zip

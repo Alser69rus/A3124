@@ -773,8 +773,7 @@ Public Class clStend
     ''' <remarks></remarks>
     Public Sub SetRazbor()
 
-        AmplitudeExcecute(eAction.Stop)
-        
+        smds.SendComand(New String() {"DS*"})
 
         opros.reg_Fzp.Reset()
 
@@ -852,7 +851,7 @@ Public Class clStend
                                                   .Parity = IO.Ports.Parity.None, _
                                                   .DataLen = 8, _
                                                   .protokol_type = eProtokolType.DCON})
-        smds.SendComand(New String() {"DS*", "EN*"})
+        smds.SendComand(New String() {"DS*"})
 
 
 
@@ -889,7 +888,7 @@ Public Class clStend
 
 
     Public Sub SetSbor(Optional ByVal fmax As Integer = 65)
-        AmplitudeExcecute(eAction.Stop)
+        smds.SendComand(New String() {"DS*"})
 
         opros.SendComand(New s_command With {.rec = "", _
                                                   .send = DIO_AllOut_Cmd(rw.ADRESS(0), 0), _
